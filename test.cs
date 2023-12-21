@@ -1,1 +1,1 @@
-WriteLine("Test");
+global::System.Object value = WriteLine("Test");
